@@ -1,4 +1,4 @@
-Website URL : https://sumaiah-islam.github.io/digitalclock/
+React web app[ Digital Clock ] : https://sumaiah-islam.github.io/digitalclock/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

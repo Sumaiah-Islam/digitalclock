@@ -59,5 +59,4 @@ if(currDate>=1 && currDate <12){
   </>
 );
 };
-
 export default App;

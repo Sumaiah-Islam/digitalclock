@@ -5,10 +5,7 @@ import night from "./images/night.jpg";
 
 
 const App = () =>{
-    let currDate = new Date();
-    currDate = currDate.getHours();
-    let greetings = ' ';
-
+   
 
 // time show
 const showTime = new Date().toLocaleTimeString();
@@ -31,6 +28,11 @@ const styleCss ={ };
 
 // background img and text
 const bgImg ={ };
+    
+     let currDate = new Date();
+     currDate = currDate.getHours();
+     let greetings = ' ';
+
 
 if(currDate>=1 && currDate <12){
      greetings='Good Morning';

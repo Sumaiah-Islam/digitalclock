@@ -4,9 +4,7 @@ React web app[ Digital Clock ] : https://sumaiah-islam.github.io/digitalclock/
 ![screencapture-localhost-3000-2021-10-13-15_02_40](https://user-images.githubusercontent.com/54281000/138123264-79661e78-7a85-42a0-a50d-c8dc5e0817b5.png)
 ![screencapture-localhost-3000-2021-10-13-20_20_03](https://user-images.githubusercontent.com/54281000/138123356-12bb8747-981b-41bb-90a8-33127a650c02.png)
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
